@@ -9,7 +9,7 @@ A "medium-code" platform, meaning javascript coding is required but developers c
 * For a demo checkout the Example Projects in /examples
 
 ## Get Started Immediately
-You don’t need to install or configure tools like Webpack or Babel.
+You don’t need to install or configure tools and services.
 They are preconfigured and hidden so that you can focus on the code.
 
 Create a project, and you’re good to go.
