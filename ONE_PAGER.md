@@ -12,7 +12,7 @@ The Business Operating System is built for organizations that recognize technolo
 
 The Business Operating system has a clear vision, it's cloud-native, open-source and it's core values are correctly aligned with sound business best practices. It's a serious project with advanced governance, enterprise licensing and most importantly a for-profit open-source cooperative of developers that's laser aligned with customer success.
 
-By extending well-architected code, junior developers quickly learn best practices from senior software architects which turn attract high performing resources ( A Players) which improves the business culture.
+By extending well-architected code, junior developers quickly learn best practices from senior software architects which in turn attract high performing resources ( A Players) which improves the business culture.
 
 # Solution
 The Business Operating System works like traditional operating systems such as macOS, Android, or Windows. Empowering anyone to create digital content.
