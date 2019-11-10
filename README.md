@@ -8,31 +8,24 @@ A "medium-code" platform, meaning javascript coding is required but developers c
 * For a one click install check the Starter Project & CLI
 * For a demo checkout the Example Projects in /examples
 
-## Primary Open Source Dependencies
+## Get Started Immediately
+You don’t need to install or configure tools like Webpack or Babel.
+They are preconfigured and hidden so that you can focus on the code.
 
-* React
-* Material UI Componentes
-* Serverless Framework
-* GraphQl
-* Knex
+Create a project, and you’re good to go.
 
-## Primary AWS Services
-* Gateway API
-* Lambda
-* Step Functions
-* RDS ( MYSQL & Postgres )
-* Dynamo DB
-* Route 53
-* Code Pipeline
-* Cloudwatch
-* SNS & SQS & SES
+## Philosophy
+
+No Configuration Required: You don't need to configure anything. A reasonably good configuration of both development and production builds is handled for you so you can focus on writing code.
+
+No Lock-In: You can “eject” to a custom setup at any time. Run a single command, and all the configuration and build dependencies will be moved directly into your project, so you can pick up right where you left off.
 
 ## What's Included
 
-* Material UI Highly Interactive Admin with great UX.
-* Perfomant Real World (Rest or GraphQL ) API Server
-* Managed ( MySql or Postgres ) Database with autobackup and restore. Multi-AZ.
-* Code Pipeline for staging and production enviroments ( DB, API's, UI ) with rollback.
+* Admin Web & Mobile Single Page Application.
+* Perfomant Real World API Server.
+* Managed Database with autobackup and restore. Multi-AZ.
+* CI/CD code pipeline for staging and production enviroments ( DB, API's, UI ) with rollback.
 * Email based passwordless authentication and JWK based auhotizations
 * Role and Profile based user access with row lever sharing.
 * Step Functions for long running background processes such as PDF generation and invoice printing.
@@ -45,6 +38,26 @@ A "medium-code" platform, meaning javascript coding is required but developers c
 * API automatic generation is Opt-in. Each route is isolated both in code and execution. Developers can overwrite queries or mutations simply by generating a file. Full server access.
 * DB is automatically generated at compile time from KNEX Migration files.
 * Full database control (RDS) and direct db connection.
+
+## Primary Open Source Dependencies
+
+* React
+* Material UI Componentes
+* Serverless Framework
+* GraphQl
+* Knex
+
+## Cloud Services
+* AWS Gateway API
+* AWS Lambda
+* AWS Step Functions
+* AWS RDS ( MYSQL & Postgres )
+* AWS Dynamo DB
+* AWS Route 53
+* AWS Code Pipeline
+* AWS Cloudwatch
+* AWS SNS & AWS SQS & AWS SES
+
 
 ## Sponsorhip and Cooperation
 
