@@ -1,12 +1,53 @@
 # The business Operating System
 
-An Open Source, cloud native, operating system for business processes and data. Next Generation CRM+ERP
+An Open Source, cloud native, operating system for business processes and data managment. 
+
+A "medium-code" platform, meaning javascript coding is required but developers can follow an existing arquitecture with real life examples and use cases. Use to deploy your "Next Generation CRM+ERP" and your Customer Facing Desktop and Apps.
 
 * For vision and mission check the [OnePager](./ONE_PAGER.MD)
 * For a one click install check the Starter Project & CLI
 * For a demo checkout the Example Projects in /examples
 
+## Primary Open Source Dependencies
+
+* React
+* Material UI Componentes
+* Serverless Framework
+* GraphQl
+* Knex
+
+## Primary AWS Services
+* Gateway API
+* Lambda
+* Step Functions
+* RDS ( MYSQL & Postgres )
+* Dynamo DB
+* Route 53
+* Code Pipeline
+* Cloudwatch
+* SNS & SQS & SES
+
+## What's Included
+
+* Material UI Highly Interactive Admin with great UX.
+* Perfomant Real World (Rest or GraphQL ) API Server
+* Managed ( MySql or Postgres ) Database with autobackup and restore. Multi-AZ.
+* Code Pipeline for staging and production enviroments ( DB, API's, UI ) with rollback.
+* Email based passwordless authentication and JWK based auhotizations
+* Role and Profile based user access with row lever sharing.
+* Step Functions for long running background processes such as PDF generation and invoice printing.
+
+## Customization and Composition
+
+* UI is automatically generated at compile time from UI JSON SCHEMA files. 
+* UI Automatic generation is Opt-in. Each route isolated. Developers get complete access and dependency managment.
+* API is automatically generated at runtime from API JSON SCHEMA files.
+* API automatic generation is Opt-in. Each route is isolated both in code and execution. Developers can overwrite queries or mutations simply by generating a file. Full server access.
+* DB is automatically generated at compile time from KNEX Migration files.
+* Full database control (RDS) and direct db connection.
+
 ## Sponsorhip and Cooperation
+
 TBOS is based on the Github Sponsorship program. Companies using TBOS are expected to sponsor the project and the work of their developers.
 
 The project is set up as a cooperative where profit from sponsorhips is divided by the active developers of the project.
