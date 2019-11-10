@@ -4,7 +4,7 @@ An Open Source, cloud native, operating system for business processes and data m
 
 A "medium-code" platform, meaning javascript coding is required but developers can follow an existing arquitecture with real life examples and use cases. Use to deploy your "Next Generation CRM+ERP" and your Customer Facing Desktop and Apps.
 
-* For vision and mission check the [OnePager](./ONE_PAGER.MD)
+* For vision and mission check the [OnePager](./ONE_PAGER.md)
 * For a one click install check the Starter Project & CLI
 * For a demo checkout the Example Projects in /examples
 
