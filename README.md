@@ -1,6 +1,6 @@
 # The business Operating System
 
-An Open Source, cloud native, operating system for business processes and data. Next Geration CRM+ERP
+An Open Source, cloud native, operating system for business processes and data. Next Generation CRM+ERP
 
 * For vision and mission check the [OnePager](./ONE_PAGER.MD)
 * For a one click install check the Starter Project & CLI
