@@ -1,30 +1,27 @@
-## The Business Operating System (BOS)
 
-# Problem
-It’s not recommended to outsource high-value-added activities such as the software used to run businesses, or being tied to proprietary platforms like Salesforce, Sap, and Microsoft.
+# The Business Operating System (TBOS)                                         
+* by @rodriguezartav 
 
-Typical software platforms and Saas offerings have an intrinsic contradiction, in order to grow at a sufficient rate to attract investors, they must constrain the supply of technology and protect their intellectual property - which affects innovation at the customer level.
+## PROBLEM
+Most companies struggle to take advantage of the amazing developments in cloud computing.
+Business operations are limited by their legacy or SaaS CRM/ERP, but replacing business software feels like a leap of faith, yet most sales and marketing executives find it normal to be limited by their software.
 
-Modernizing operating software on your own feels like a leap of faith. Fear of leaving the current software comfort zone keep decision-makers from taking control of high-value-added tech assets.
+By outsourcing a high-value-added activity like software, organizations are missing out on the competitive advantage of cloud computing, leading to static business models and uncreative cultures. Companies that want to be creative with business software have no other way but to start from scratch.
 
-# Vision
-The Business Operating System is built for organizations that recognize technology as a high value added activity and are searching for ways to take control by building a professional and capable team while outsourcing other low value-added activities such as maintenance, hardware, and infrastructure.
+## SOLUTION
+Just like macOS and LinuxOS are a software layer that empowers people to create digital content. TbOS is a cloud software layer that empowers organizations to create and run digital operations.
 
-The Business Operating system has a clear vision, it's cloud-native, open-source and it's core values are correctly aligned with sound business best practices. It's a serious project with advanced governance, enterprise licensing and most importantly a for-profit open-source cooperative of developers that's laser aligned with customer success.
+TbOS is the organization’s core software system that communicates with AWS Cloud to allow business data like orders, invoices, prices, and reservations to flow between apps.
 
-By extending well-architected code, junior developers quickly learn best practices from senior software architects which in turn attract high performing resources ( A Players) which improves the business culture.
+It’s the blueprint that defines how traditional business processes are mapped into desktop/mobile apps, the path to enhance them with artificial intelligence with machine learning and the enterprise-grade components used to build and constantly improve them.
 
-# Solution
-The Business Operating System works like traditional operating systems such as macOS, Android, or Windows. Empowering anyone to create digital content.
+Every company has a computer system of some sort, but not a unified, core business operating system that allows them to constantly improve their business model and operations by tapping into the latest technologies, on time.
+MARKET TBOS is for small and medium organizations that recognize technology as a high-value-added activity and are searching for ways to take ownership of their software with their own professional and capable team.
 
-BOS empowers every company to evolve into digital businesses and get out of the way once it’s done. Blueprints with fully operational modules, designed to be owned internally allow companies to get started right away with their urgent requirements while migrating core business operations on the background and naturally incorporating next-generation cloud services like AI voice robots (Alexa) and AI forecasting.
+## MODEL
 
-The missing part of the cloud puzzle it's constantly being reinvented. People call it CRM or ERP,  but it's actually the core business operating system - every organization, digital or not, needs one.
+TBOS is a cloud-native, open-source project and its core values are correctly aligned with sound business best practices. It's a serious project with advanced governance, enterprise licensing and most importantly a for-profit open-source cooperative of developers that's laser aligned with customer success.
 
-# Product
-The Business Operating System is a fully operational "medium-code" universe that includes extensible Interactive Apps, Serverless Apis and customer portals. The "code" is designed to be easily modified and adapted by company developers to unique business cases, captained by executive entrepreneurs. 
 
-The Business Operating System is installed into an AWS Account with one click, costs *$0 to operate the first year, includes features equal or better to the best CRM and ERP systems plus easy plug&play connection into the entire Amazon Web Services catalog.
-
-It starts as a simple internal admin (CRM or ERP) with bulletproof global connectivity, data resilience, and uptime that can be scaled all the way into an Uber, Airbnb, Netflix or Spotify. Actually, all of them started that way.
+Tech specs @ github.com/thebosys/core
 
