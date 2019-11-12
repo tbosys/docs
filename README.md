@@ -10,7 +10,9 @@ TbOS is the organization’s core software system that communicates with AWS Clo
 It’s the blueprint that defines how traditional business processes are mapped into desktop/mobile apps, the path to enhance them with artificial intelligence with machine learning and the enterprise-grade components used to build and constantly improve them.
 
 Every company has a computer system of some sort, but not a unified, core business operating system that allows them to constantly improve their business model and operations by tapping into the latest technologies, on time.
-MARKET TBOS is for small and medium organizations that recognize technology as a high-value-added activity and are searching for ways to take ownership of their software with their own professional and capable team.
+
+## MARKET 
+TBOS is for small and medium organizations that recognize technology as a high-value-added activity and are searching for ways to take ownership of their software with their own professional and capable team.
 
 Follow an existing arquitecture with real life examples and use cases. Use to deploy your "Next Generation CRM+ERP" and your Customer Facing Desktop and Apps.
 
