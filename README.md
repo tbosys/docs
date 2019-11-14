@@ -1,6 +1,12 @@
-# The business Operating System
+We are building a software system for small and medium companies to run their business for a very low cost.
+#open-source #cloud-native #serverless #distributed #medium-code
 
-An Open Source, cloud native, operating system for business processes and data managment. 
+#### A business operating system involves everything a company requires to do business
+* Enterprise Grade Databases and longterm digital information storage (AWS-RDS AWS_S3)
+* Web Platform to login with role-based access to startup grade apps (React-MaterialUI-AWS_S3-AWS_Cloudfront)
+* Web Server to model and constantly improve how business is done (AWS_Lambda-NodeJS)
+* Engineering Grade Developer Tools & Workflows for continuous limitless system development
+* Plug&Play access to the full AWS Cloud Services Catalog
 
 ## SOLUTION
 Just like macOS and LinuxOS are a software layer that empowers people to create digital content. TbOS is a cloud software layer that empowers organizations to create and run digital operations.
