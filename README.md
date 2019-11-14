@@ -1,5 +1,4 @@
 We are building a software system for small and medium companies to run their business for a very low cost.
-#open-source #cloud-native #serverless #distributed #medium-code
 
 #### A business operating system involves everything a company requires to do business
 * Enterprise Grade Databases and longterm digital information storage (AWS-RDS AWS_S3)
@@ -7,6 +6,14 @@ We are building a software system for small and medium companies to run their bu
 * Web Server to model and constantly improve how business is done (AWS_Lambda-NodeJS)
 * Engineering Grade Developer Tools & Workflows for continuous limitless system development
 * Plug&Play access to the full AWS Cloud Services Catalog
+
+#### TbOS is production ready, fully operations, key-in-hand
+* #open-source: MIT License - truly gift to the world
+* #cloud-native: Invented 2019 exclusivley for the AWS Cloud
+* #serverless: Not moving parts, no maintenance, no engineers required.
+* #medium-code: Coding is required to create and change apps - we don't believe in click&build.
+* #distributed: Deployed to 3 geografical locations with automatic switching if one fails. Think automatic backup & recovery
+
 
 ## SOLUTION
 Just like macOS and LinuxOS are a software layer that empowers people to create digital content. TbOS is a cloud software layer that empowers organizations to create and run digital operations.
