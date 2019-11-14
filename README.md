@@ -8,7 +8,7 @@ We are building a software system for small and medium companies to run their bu
 * Plug&Play access to the full AWS Cloud Services Catalog
 
 #### TbOS is production ready, fully operations, key-in-hand
-* #open-source: MIT License - truly gift to the world
+* #open-source: MIT License - an honest gift to the world
 * #cloud-native: Invented 2019 exclusivley for the AWS Cloud
 * #serverless: Not moving parts, no maintenance, no engineers required.
 * #medium-code: Coding is required to create and change apps - we don't believe in click&build.
