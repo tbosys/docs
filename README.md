@@ -1,4 +1,4 @@
-We are building a software system for small and medium companies to run their business for a very low cost.
+We are building a software system for small and medium companies to run their business for the right cost
 
 #### A business operating system involves everything a company requires to do business
 * Enterprise Grade Databases and longterm digital information storage (AWS-RDS AWS_S3)
