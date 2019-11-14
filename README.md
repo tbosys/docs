@@ -9,8 +9,8 @@ We are building a software system for small and medium companies to run their bu
 
 #### TbOS is production ready, fully operations, key-in-hand
 * #open-source: MIT License - an honest gift to the world
-* #cloud-native: Invented 2019 exclusivley for the AWS Cloud
-* #serverless: Not moving parts, no maintenance, no engineers required.
+* #cloud-native: Invented in 2019 exclusivley for the AWS Cloud
+* #serverless: No moving parts, no maintenance, no engineers required, enterprise resilence obtained.
 * #medium-code: Coding is required to create and change apps - we don't believe in click&build.
 * #distributed: Deployed to 3 geografical locations with automatic switching if one fails. Think automatic backup & recovery
 
