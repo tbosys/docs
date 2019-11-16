@@ -1,0 +1,4 @@
+- The system architecture and IO must be simple and beautiful.
+- All code must be easy to understand, follow and extend by normal developers.
+- No framework middle-tier, besides widely adopted framerworks all code must be at reach.
+- True craftmanship and inteligence lies in simplicity.
